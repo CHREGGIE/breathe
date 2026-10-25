@@ -7,3 +7,21 @@ In the pane:
 - `p` pauses or resumes
 - `n` switches pattern: Calm 4·6, Box 4·4·4·4, Relax 4·7·8
 - `x` closes the pane
+
+## Install
+
+At the prompt of a Claude Code terminal session:
+
+```
+/plugin install breathe --marketplace CHREGGIE/breathe
+```
+
+Answer `y` to add the marketplace, then press Enter to pick the user scope.
+
+From a shell:
+
+```
+claude plugin install breathe --marketplace CHREGGIE/breathe
+```
+
+In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `CHREGGIE/breathe`, then Add plugin.
