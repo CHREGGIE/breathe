@@ -1,0 +1,7 @@
+{
+  "name": "breathe",
+  "version": "0.1.0",
+  "description": "A calm breathing guide in a side pane: a circle that grows and shrinks with your breath",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
