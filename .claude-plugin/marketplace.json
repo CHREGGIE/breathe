@@ -1,5 +1,6 @@
 {
   "name": "breathe",
+  "description": "The breathe mod for Claude Code: a calm breathing guide in a side pane",
   "owner": { "name": "CHREGGIE" },
   "plugins": [{ "name": "breathe", "source": "./" }]
 }

@@ -8,6 +8,12 @@ In the pane:
 - `n` switches pattern: Calm 4·6, Box 4·4·4·4, Relax 4·7·8
 - `x` closes the pane
 
+It counts the breaths you finish in each session, and picking a new pattern starts the count again.
+
+## What it does and doesn't do
+
+The mod draws one pane and adds the `/breathe` command. That's all. It sends nothing over the network, reads and writes no files, runs no programs, and collects no data. Your progress through a pattern is kept only in the current Claude Code session.
+
 ## Install
 
 At the prompt of a Claude Code terminal session:

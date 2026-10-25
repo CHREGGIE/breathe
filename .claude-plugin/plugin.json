@@ -1,7 +1,12 @@
 {
   "name": "breathe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A calm breathing guide in a side pane: a circle that grows and shrinks with your breath",
+  "author": { "name": "CHREGGIE", "url": "https://github.com/CHREGGIE" },
+  "homepage": "https://github.com/CHREGGIE/breathe",
+  "repository": "https://github.com/CHREGGIE/breathe",
   "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "keywords": ["breathing", "relaxation", "mindfulness", "wellbeing", "pane"],
   "types": "./types/index.d.ts"
 }
